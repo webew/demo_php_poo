@@ -1,0 +1,1 @@
+const idCat = 1;
